@@ -28,7 +28,7 @@ Unix &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 ## Code examples
 
-https://github.com/JoMarianek/Canvas/tree/master 
+[https://github.com/JoMarianek/Canvas/tree/master](https://github.com/JoMarianek/Canvas/tree/master)
 
 
 ## Education
@@ -44,7 +44,6 @@ https://github.com/JoMarianek/Canvas/tree/master
 <br/><br/>
 
 11/2023 - present  &nbsp;&nbsp;&nbsp;&nbsp;Javascript/Front-end Mentoring Program, _Rolling Scopes School_
-<br/><br/>
 
 ## English
 For the enrollment in my studies I had to prove that I speak English on a C1 level (TOEFL-Certificate: 110 Points).
