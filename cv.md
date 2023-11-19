@@ -3,7 +3,7 @@
 ## Contact Info
 - Email: joelle.marianek@live.de
 * [Github](https://github.com/JoMarianek): jomarianek
-+ [Linkedin](www.linkedin.com/in/joelle-marianek-0b604a123)
++ [Linkedin](https://www.linkedin.com/in/joelle-marianek-0b604a123)
 
 ## Summary
 
@@ -44,6 +44,7 @@ Unix &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <br/><br/>
 
 11/2023 - present  &nbsp;&nbsp;&nbsp;&nbsp;Javascript/Front-end Mentoring Program, _Rolling Scopes School_
+<br/><br/>
 
 ## English
 For the enrollment in my studies I had to prove that I speak English on a C1 level (TOEFL-Certificate: 110 Points).
