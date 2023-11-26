@@ -1,5 +1,56 @@
 html
 {
+    color: #ffffff;
     font-family: 'Cascadia Code', monospace, sans-serif;
     background-color: #1B171D;
+}
+.container 
+{
+    width: 80%;
+    margin: 0 auto;
+}
+.portrait
+{
+    width: 100px;
+    border-radius: 50%;
+}
+#name
+{
+    color: #E455AE;
+}
+#contact
+{
+    color: #37EBF3;
+}
+#summary
+{
+    color: #FDF500;
+}
+#skills
+{
+    color: #CB1DCD;
+}
+#examples
+{
+    color: #1AC5B0;
+}
+#experience
+{
+    color: #9370DB;
+}
+#education
+{
+    color: #45CF6D;
+}
+#english
+{
+    color: #E455AE;
+}
+footer
+{
+    color: #D1C5C0;
+}
+.img
+{
+    width: 60px
 }
