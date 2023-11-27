@@ -9,14 +9,38 @@ html
     width: 80%;
     margin: 0 auto;
 }
-.portrait
+a
 {
-    width: 100px;
-    border-radius: 50%;
+    color: purple;
 }
-#name
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+nav li
+{
+    margin-right: 50px;
+}
+nav a
+{
+    text-decoration: none;
+}
+.h1-container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 5px 0;
+}
+.h1-container h1
 {
     color: #E455AE;
+}
+.h1-container img
+{
+    width: 150px;
+    border-radius: 50%; 
 }
 #contact
 {
@@ -30,6 +54,12 @@ html
 {
     color: #CB1DCD;
 }
+table
+{
+    border-collapse: separate;
+    border-spacing: 35px 0px;
+    margin-left: -35px;
+}
 #examples
 {
     color: #1AC5B0;
@@ -40,17 +70,29 @@ html
 }
 #education
 {
-    color: #45CF6D;
+    color: #00FF9F;
 }
-#english
+#languages
 {
     color: #E455AE;
 }
-footer
+.footer-container
 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     color: #D1C5C0;
 }
-.img
+.rs
 {
-    width: 60px
+    width: 70px;
+    
+}
+.github
+{
+    width: 58px;
+}
+.footer-container p
+{
+    color: #D1C5C0
 }
